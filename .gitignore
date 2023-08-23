@@ -1,0 +1,16 @@
+venv/
+env/
+search_engine/
+output/
+models/
+__pycache__
+*.csv
+fm_api_key.txt
+tm_api_key.txt
+query.txt
+query_prev.txt
+utils_v1.py
+Dockerfile
+.env
+*.zip
+history/
